@@ -1,4 +1,4 @@
 YASIR RESOLUSI
----
----
----
+--- aplikasi perpus dengan django
+--- aplikasi penjualan dengan django
+--- aplikasi spp dengan django
